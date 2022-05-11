@@ -1,0 +1,50 @@
+git add ----update the current content 
+git Add Files--is used to add multiple files
+git add<file name>
+touchnewfile.txt
+git status
+gitadd newfile.txt
+
+git addall
+git add -A
+
+
+Removing files from staging area
+git add newfile3.txt
+ add all and updated file
+git add ignore removal
+
+git ad -u
+add file
+git add *.java
+git undo
+git reset<filename>
+ git commit
+git commit command
+git commit
+ new file1.txt
+git commit -a --- this command is used to alreay added file 
+git undo commit
+git revert commit
+git remove commit
+git add <file name>
+git status
+git loggit reset --hard
+i will mive the head pointer
+it will updated the staging area with the content that the  head is point
+git rever<commit -ish>
+cleanup
+no commit
+git revert merge
+cleanup
+no commit
+git revert merge my filedesign2.css merge with test2
+git reset 
+soft
+mixed
+hard
+git rm
+
+ 
+
+
